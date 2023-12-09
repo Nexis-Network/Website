@@ -8,7 +8,6 @@ import AnimatedBackground from 'components/shared/animatedbackground';
 import CTAWithElephant from 'components/shared/cta-with-elephant';
 import Layout from 'components/shared/layout';
 import SplitViewGrid from 'components/shared/split-view-grid';
-import LINKS from 'constants/links';
 import SEO_DATA from 'constants/seo-data';
 import compatibilityIcon from 'icons/ai/compatibility.svg';
 import scalabilityIcon from 'icons/ai/scalability.svg';
