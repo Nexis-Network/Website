@@ -1,11 +1,12 @@
 'use client';
 
+import { BLOG_CATEGORY_BASE_PATH, BLOG_BASE_PATH } from 'constants/blog';
+
 import clsx from 'clsx';
 import { useSelectedLayoutSegments } from 'next/navigation';
 import PropTypes from 'prop-types';
 
 import Link from 'components/shared/link';
-import { BLOG_CATEGORY_BASE_PATH, BLOG_BASE_PATH } from 'constants/blog';
 
 const BlogNavLink = ({ name, slug }) => {
   const segments = useSelectedLayoutSegments();
