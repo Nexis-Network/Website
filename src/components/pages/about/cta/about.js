@@ -1,5 +1,5 @@
 // In one of your Next.js pages
-import Team from '../components/Team';
+//import Team from '../components/Team';
 
 const AboutPage = () => {
   const people = [
