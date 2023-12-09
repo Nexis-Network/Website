@@ -13,12 +13,6 @@ export default {
        items: [
           {
             icon: TransactionsIcon,
-            text: 'Nexis Web Wallet',
-            description: 'Store, swap, and delegate to earn rewards.',
-            to: 'https://wallet.nexis.network',
-          },
-          {
-            icon: TransactionsIcon,
             text: 'Nexis Dex',
             to: 'https://dex.nexis.network',
             description: 'Swap tokens, earn rewards, provide liquidity.',
@@ -32,7 +26,7 @@ export default {
           {
             icon: TransactionsIcon,
             text: 'Governance Portal',
-            to: 'https://governance.exzo.technology',
+            to: 'https://vote.nexis.network',
             description: 'Contribute to the growth of Nexis Network.',
           },
         ],
@@ -78,7 +72,7 @@ export default {
           {
             icon: TransactionsIcon,
             text: 'Nexis Program Library',
-            to: 'https://github.com/NexisNetwork/exzo-program-library',
+            to: 'https://github.com/Nexis-Network/nexis-program-library',
             description: 'Interact with nodes and build on Nexis.',
           },
           {
@@ -167,7 +161,7 @@ export default {
         },
         {
           text: 'Governance',
-          to: 'https://governance.nexis.network',
+          to: 'https://vote.nexis.network',
         },
         {
           text: 'Nexis Dex',
@@ -250,7 +244,7 @@ export default {
       },
       {
         text: 'Governance',
-        to: 'https://governance.nexis.network',
+        to: 'https://vote.nexis.network',
       },
       {
         text: 'Nexis Dex',
